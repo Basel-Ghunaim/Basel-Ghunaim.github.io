@@ -18,7 +18,7 @@ The project aims to demonstrate a complete mechatronic system that combines mech
 
 ## Project Resources
 - [Project Repository](#)
-- [Week Report 1](#)
+- [Week Report 1](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Week%203%20Report.pptx)
 - [Week Report 2](#)
 - [Shared Folder (sensors)](#)
 - [Shared Folder (stepper)](#)
