@@ -23,6 +23,7 @@ The project aims to demonstrate a complete mechatronic system that combines mech
 - [Shared Folder (sensors)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Mechatronics%20System%20Design%20week%20one.pdf)
 - [Shared Folder (stepper)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/stteper%20motor%20and%20encoder.pdf)
 - [Shared Folder (vacuum)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Vacuum%20Suction%20System.pdf)
+- [Shared Folder (Objects to picked and placed)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Objects%20to%20be%20picked%20and%20placed.pdf)
 
 ## Results
 The project focuses on the design and development of a robotic arm capable of handling multiple types of objects using a hybrid end-effector system. The system integrates stepper motor control, position tracking through step counting and homing, and a vacuum suction mechanism for handling flat objects such as CDs.
@@ -34,4 +35,9 @@ The overall system design is still under development and refinement. In addition
 The current work has established a solid foundation for further development, integration, and testing of the robotic system.
 
 ## Bibliography
+- Kolstad, C. “Vacuum suction cup.” *Tameson*, Sep. 10, 2025.  
+  https://tameson.com/pages/vacuum-suction-cup
+- “Stepper motor position control.” *Arduino Forum*, Nov. 21, 2020.  
+  https://forum.arduino.cc/t/stepper-motor-position-control/683692
+
 
