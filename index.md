@@ -19,10 +19,10 @@ The project aims to demonstrate a complete mechatronic system that combines mech
 ## Project Resources
 - [Project Repository](#)
 - [Week Report 1](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Week%203%20Report.pptx)
-- [Week Report 2](#)
-- [Shared Folder (sensors)](#)
-- [Shared Folder (stepper)](#)
-- [Shared Folder (vacuum)](#)
+- [Week Report 2](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Progress%20Week%204.pptx)
+- [Shared Folder (sensors)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Mechatronics%20System%20Design%20week%20one.pdf)
+- [Shared Folder (stepper)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/stteper%20motor%20and%20encoder.pdf)
+- [Shared Folder (vacuum)](https://github.com/Basel-Ghunaim/Basel-Ghunaim.github.io/blob/main/Vacuum%20Suction%20System.pdf)
 
 ## Results
 The project focuses on the design and development of a robotic arm capable of handling multiple types of objects using a hybrid end-effector system. The system integrates stepper motor control, position tracking through step counting and homing, and a vacuum suction mechanism for handling flat objects such as CDs.
