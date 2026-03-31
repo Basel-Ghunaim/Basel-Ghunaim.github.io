@@ -18,10 +18,11 @@ The project aims to demonstrate a complete mechatronic system that combines mech
 
 ## Project Resources
 - [Project Repository](#)
-- [Weekly Report](#)
-- [Slides](#)
-- [Shared Folder](#)
-- [Video Demo](#)
+- [Week Report 1](#)
+- [Week Report 2](#)
+- [Shared Folder (sensors)](#)
+- [Shared Folder (stepper)](#)
+- [Shared Folder (vacuum)](#)
 
 ## Results
 The project focuses on the design and development of a robotic arm capable of handling multiple types of objects using a hybrid end-effector system. The system integrates stepper motor control, position tracking through step counting and homing, and a vacuum suction mechanism for handling flat objects such as CDs.
